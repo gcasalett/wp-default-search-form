@@ -1,5 +1,6 @@
-# wp-default-search-form
-Code for default WordPress searchform.php. Download PHP file or copy the following code:
+# Default Search form for WordPress
+
+Use this code to replace the default search form. Download the php file or use this snippet:
 
 ```
 <form method="get" id="searchform" action="<?php bloginfo('url'); ?>/">
